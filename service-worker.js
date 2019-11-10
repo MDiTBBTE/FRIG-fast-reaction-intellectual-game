@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/FRIG-fast-reaction-intellectual-game/precache-manifest.f3f58e9e2f631ef1d3f8ce686c77cb19.js"
+  "/FRIG-fast-reaction-intellectual-game/precache-manifest.86a0f1d92b043f6609a01808fe708a93.js"
 );
 
 self.addEventListener('message', (event) => {

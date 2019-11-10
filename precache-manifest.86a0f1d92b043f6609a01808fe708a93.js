@@ -1,14 +1,14 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f52d4c357f7c36590af9a4b703493a99",
+    "revision": "5e0258d087113a84ad43ee688090bc9f",
     "url": "/FRIG-fast-reaction-intellectual-game/index.html"
   },
   {
-    "revision": "8016f22e99ff3e77d401",
+    "revision": "d3b75f6dd4844c4a23c2",
     "url": "/FRIG-fast-reaction-intellectual-game/static/css/4.774b713a.chunk.css"
   },
   {
-    "revision": "48981618a3a424549d11",
+    "revision": "2dcbf87f31a972876641",
     "url": "/FRIG-fast-reaction-intellectual-game/static/css/5.92388181.chunk.css"
   },
   {
@@ -24,19 +24,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FRIG-fast-reaction-intellectual-game/static/js/3.8f9d8568.chunk.js"
   },
   {
-    "revision": "8016f22e99ff3e77d401",
-    "url": "/FRIG-fast-reaction-intellectual-game/static/js/4.c3b06790.chunk.js"
+    "revision": "d3b75f6dd4844c4a23c2",
+    "url": "/FRIG-fast-reaction-intellectual-game/static/js/4.09515291.chunk.js"
   },
   {
-    "revision": "48981618a3a424549d11",
-    "url": "/FRIG-fast-reaction-intellectual-game/static/js/5.8e605257.chunk.js"
+    "revision": "2dcbf87f31a972876641",
+    "url": "/FRIG-fast-reaction-intellectual-game/static/js/5.e6887d31.chunk.js"
   },
   {
     "revision": "f06c613ff70ccfd6a11a",
     "url": "/FRIG-fast-reaction-intellectual-game/static/js/main.ede1c567.chunk.js"
   },
   {
-    "revision": "6cd3fa90e9f6b960c648",
-    "url": "/FRIG-fast-reaction-intellectual-game/static/js/runtime-main.304b1cfb.js"
+    "revision": "3281e8869e5371b86cb0",
+    "url": "/FRIG-fast-reaction-intellectual-game/static/js/runtime-main.7fe63aa4.js"
   }
 ]);
