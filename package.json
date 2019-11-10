@@ -21,7 +21,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "http://git.github.io/STARNAVI-test",
+  "homepage": "http://mditbbte.github.io/FRIG-fast-reaction-intellectual-game",
   "eslintConfig": {
     "extends": "react-app"
   },
