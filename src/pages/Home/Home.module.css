@@ -1,0 +1,15 @@
+.tittle {
+  text-align: center;
+}
+
+.info,
+.span {
+  width: 70%;
+  margin: 0 auto;
+  text-align: center;
+}
+.span {
+  font-style: italic;
+  letter-spacing: 2px;
+  margin-top: 20px;
+}

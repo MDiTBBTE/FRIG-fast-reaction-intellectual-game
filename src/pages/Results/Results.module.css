@@ -1,0 +1,29 @@
+.tittle {
+  text-align: center;
+}
+
+.list {
+  display: grid;
+  padding: 0;
+  grid-template-columns: 0.5fr 0.5fr;
+  grid-column-gap: 10px;
+}
+
+.list_item {
+  display: flex;
+  justify-content: space-around;
+  align-items: baseline;
+  font-size: 16px;
+  background: silver;
+  margin: 15px 5px 0;
+  border-radius: 8px;
+}
+
+@media screen and (max-width: 481px) {
+  .list {
+    display: grid;
+    padding: 0;
+    grid-template-columns: 1fr;
+    grid-column-gap: 10px;
+  }
+}

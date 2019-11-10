@@ -1,0 +1,23 @@
+table {
+  margin: 40px auto;
+  background: rgb(197, 193, 193);
+  border: 25px solid white;
+  border-collapse: collapse;
+}
+td {
+  text-align: center;
+  width: 90px;
+  height: 90px;
+  border: 2px solid rgb(245, 236, 236);
+}
+tr.chessboard:nth-child(odd) td.chessboard:nth-child(even),
+tr.chessboard:nth-child(even) td.chessboard:nth-child(odd) {
+  background: white;
+}
+
+@media screen and (max-width: 481px) {
+  table {
+    margin: 5px auto;
+    border: 15px solid white;
+  }
+}

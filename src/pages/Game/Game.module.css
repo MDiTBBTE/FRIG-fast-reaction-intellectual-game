@@ -1,0 +1,45 @@
+.form__inner {
+  margin: 0 auto;
+  width: 84%;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 0.8fr 0.8fr 0.5fr;
+  grid-column-gap: 20px;
+}
+
+.game_p {
+  width: 50%;
+  margin: 20px auto 0;
+  text-align: center;
+  font-style: italic;
+  font-size: 16px;
+}
+
+.game_span {
+  font-weight: bold;
+}
+
+@media screen and (max-width: 481px) {
+  .form__inner {
+    padding: 0;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-row-gap: 10px;
+  }
+
+  .pageSelect {
+    height: 20px;
+    margin-bottom: 30px;
+  }
+  input {
+    height: 30px;
+  }
+  .game_p {
+    width: 70%;
+    margin: 20px auto 0;
+
+    text-align: center;
+    font-style: italic;
+    font-size: 14px;
+  }
+}
